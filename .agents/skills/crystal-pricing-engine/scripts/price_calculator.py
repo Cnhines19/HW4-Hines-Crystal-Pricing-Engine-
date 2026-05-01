@@ -4,8 +4,8 @@ base_prices = {
     "labradorite": 0.15,
     "amethyst": 0.10,
     "rose quartz": 0.08,
-    "agate": 0.09,
-    "jasper": 0.09,
+    "agate": 0.095,
+    "jasper": 0.085,
     "fluorite": 0.11
 }
 
