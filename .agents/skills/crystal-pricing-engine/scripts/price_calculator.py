@@ -1,12 +1,13 @@
 def calculate_price(stone, weight_grams, quality, cut):
     # Base price per gram (example baseline values)
-    base_prices = {
-        "labradorite": 0.15,
-        "amethyst": 0.10,
-        "rose quartz": 0.08,
-        "black tourmaline": 0.12,
-        "fluorite": 0.11
-    }
+base_prices = {
+    "labradorite": 0.15,
+    "amethyst": 0.10,
+    "rose quartz": 0.08,
+    "agate": 0.09,
+    "jasper": 0.09,
+    "fluorite": 0.11
+}
 
     # Quality multipliers
     quality_multipliers = {
