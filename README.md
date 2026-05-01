@@ -42,5 +42,6 @@ The script:
 - Not a formal appraisal tool
 
 ## Demo video
-(https://us06web.zoom.us/rec/share/TOwAK4yJeP7_5Ac68vJrLc5W4XCuI0yZlC_R03gK6yKH4LykrWng8VlxUcX6i4lM.N8aXTwZ58sBB3FyV?startTime=1777646555000
-Passcode: =.Ym8Xz6)
+[Watch demo video](https://us06web.zoom.us/rec/share/TOwAK4yJeP7_5Ac68vJrLc5W4XCuI0yZIC_R03gK6yKH4LykrWng8VIxUcX6i4IM.N8aXTwZ58sBB3FyV)
+
+Passcode: =Ym8Xz6
